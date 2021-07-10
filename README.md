@@ -7,7 +7,7 @@
 [![GitHub: vanessamarely](https://img.shields.io/github/followers/letien2106?label=follow&style=social)](https://github.com/letien2106)
 
  I recently started my Youtube channel, please follow me there!
- [![Youtube Vanessa's channel](https://www.youtube.com/channel/UCme5oROF7RyEjcK62QwcI2w/channels)
+ [![Youtube Vanessa's channel](https://www.youtube.com/channel/UCme5oROF7RyEjcK62QwcI2w/channels)]
 
 ### A little more about me...  
 
